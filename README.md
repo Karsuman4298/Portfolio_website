@@ -1,11 +1,8 @@
-# Professional AI / ML Researcher Portfolio
+# Professional Intelligent systems Research enthusiast Portfolio
 
 A modern, high-performance portfolio website designed for AI researchers and Machine Learning engineers. This project features a clean research-oriented aesthetic, interactive 3D visualizations, and optimized performance.
 
-## 🚀 Live Demo
-The site is ready to be hosted on platforms like **Vercel** or **Netlify**.
-
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
@@ -13,7 +10,7 @@ The site is ready to be hosted on platforms like **Vercel** or **Netlify**.
 - **Icons**: [Lucide React](https://lucide.dev/) & [Simple Icons](https://simpleicons.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 
-## 📂 Project Structure
+##  Project Structure
 - `src/app`: Main page and global styles.
 - `src/components`: UI components (Hero, About, Research, Projects, etc.).
 - `public/`: Assets and profile images.
@@ -22,8 +19,8 @@ The site is ready to be hosted on platforms like **Vercel** or **Netlify**.
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone <https://github.com/Karsuman4298/Portfolio_website>
+   cd <Portfolio_website>
    ```
 
 2. **Install dependencies**:
@@ -41,22 +38,13 @@ The site is ready to be hosted on platforms like **Vercel** or **Netlify**.
    npm run build
    ```
 
-## 🌐 Deployment Instructions
+##  Deployment Instructions
 
-### Deploy with Vercel (Recommended)
+### Deploy with Vercel 
 1. Push your code to a GitHub repository.
 2. Go to [Vercel](https://vercel.com/) and click **Add New** > **Project**.
 3. Import your GitHub repository.
 4. Vercel will automatically detect Next.js settings. Click **Deploy**.
-
-### Deploy with Netlify
-1. Push your code to a GitHub repository.
-2. Go to [Netlify](https://www.netlify.com/) and click **Add a new site** > **Import an existing project**.
-3. Select GitHub and authorize.
-4. Select your repository.
-5. In the Build settings, ensure:
-   - **Build command**: `npm run build`
-   - **Publish directory**: `.next`
 6. Click **Deploy site**.
 
 ## 📄 License
